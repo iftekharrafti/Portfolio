@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Redux",
+        "icon": "https://i.ibb.co/B6B4tSx/redux.png"
+    },
+    {
+        "id": "2",
+        "name": "Node.js",
+        "icon": "https://i.ibb.co/dk7YN3d/node-js.png"
+    },
+    {
+        "id": "3",
+        "name": "Express.js",
+        "icon": "https://i.ibb.co/c1H3tVm/express.png"
+    },
+    {
+        "id": "4",
+        "name": "MongoDB",
+        "icon": "https://i.ibb.co/yRf8HR5/mongo.png"
+    },
+    {
+        "id": "5",
+        "name": "Material UI",
+        "icon": "https://i.ibb.co/26tkqL1/material.png"
+    },
+    {
+        "id": "6",
+        "name": "Wordpress",
+        "icon": "https://i.ibb.co/5snJgGg/wordpress.png"
+    }
+]

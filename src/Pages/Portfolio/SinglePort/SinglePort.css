@@ -1,0 +1,11 @@
+.card-portfolio{
+    background-color: #1d293a;
+    height:370px;
+    color: #fff;
+}
+.card-portfolio .btn{
+    padding: 6px 15px;
+}
+.card-portfolio .card-title{
+    color: rgb(187, 171, 171);
+}

@@ -1,0 +1,10 @@
+.blog h2 {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.blog span {
+    color: #00cf5d;
+}

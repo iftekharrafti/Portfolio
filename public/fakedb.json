@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "E-commerce Website",
+        "description": "Shop CV is a e-commerce website. It is build with HTML, CSS And JAVASCRIPT",
+        "link": "https://shop-cv.netlify.app",
+        "img": "https://i.ibb.co/PCrGBhF/Store-with-credit-card-gift-boxes-buyers-vector-illustration-Purchase-sale-e-commerce-Shopping-conce.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Company Employee Detaills",
+        "description": "This is Calivard Teams Employee's details website. It is build with HTML, CSS And JAVASCRIPT",
+        "link": "https://calivard-employee.netlify.app/",
+        "img": "https://i.ibb.co/7nZy1mr/Colleagues-working-together-on-project-flat-vector-illustration-Cartoon-employees-sharing-ideas-and.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Educational Website",
+        "description": "This is Educational Website. It is build with HTML, CSS , BOOTSTRAP, REACT AND REACT ROUTER",
+        "link": "https://calivard-school.netlify.app/",
+        "img": "https://i.ibb.co/3dmStfc/Focused-tiny-people-reading-books-Studying-story-library-flat-vector-illustration-Knowledge-and-educ.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pin Matcher",
+        "description": "This is a pin verification system demo. This is designed with HTML and CSS and functionality given with JavaScript and DOM..",
+        "link": "https://pin-matcher-rafti.netlify.app/",
+        "img": "https://i.ibb.co/R9JYY18/pin-matcher.png"
+    },
+    {
+        "id": 5,
+        "name": "Weather Website",
+        "description": "Weather Website shows all other cities Website. It is build with HTML, CSS, JAVASCRIPT And Rest API",
+        "link": "https://weather-main.netlify.app",
+        "img": "https://i.ibb.co/5vWH1HN/Realistic-weather-forecast-widget-mobile-application-program-layout-template-vector-illustration.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Book Detaills",
+        "description": "Book Detaills website shows different types of books. It is build with HTML, CSS, JAVASCRIPT And Rest API",
+        "link": "https://book-api-rafti.netlify.app",
+        "img": "https://i.ibb.co/p2L0Htj/Book-Cover-Mockup.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Favourite Club",
+        "description": "Favourite Club website includes all football club. It is build with HTML, CSS , BOOTSTRAP And Rest API",
+        "link": "https://sports-club-main.netlify.app",
+        "img": "https://i.ibb.co/JC2tmFD/Sports-Soccer-Players-on-Training-Boys-Kicking-Soccer-Balls-on-Practice-Session-Kids-Playing-Soccer.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Shopping Cart Implementation",
+        "description": "This project is about Shopping Cart Calculation. In this project I have showed up how to calculate a different types of shopping features using HTML, CSS, BootStrap and Javacript..",
+        "link": "https://mac-book-rafti.netlify.app",
+        "img": "https://i.ibb.co/SVgVjLL/Interior-warehouse-super-store-with-focus-on-empty-shopping-cart-in-store-aisle.jpg"
+    }
+]

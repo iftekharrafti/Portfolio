@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "name": "Git",
+        "icon": "https://i.ibb.co/GcGZ1Ky/git.png"
+    },
+    {
+        "id": "2",
+        "name": "VS Code",
+        "icon": "https://i.ibb.co/qJ9tW6H/vs-code.png"
+    },
+    {
+        "id": "3",
+        "name": "Chrome Dev Tools",
+        "icon": "https://i.ibb.co/72V4fbT/chrome.png"
+    },
+    {
+        "id": "4",
+        "name": "NPM",
+        "icon": "https://i.ibb.co/mCpHSBx/npm.png"
+    },
+    {
+        "id": "5",
+        "name": "Figma",
+        "icon": "https://i.ibb.co/CnMF71D/figma.png"
+    }
+]

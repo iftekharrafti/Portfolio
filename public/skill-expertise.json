@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "javascript",
+        "icon": "https://i.ibb.co/kGhQ9S4/javascript.png"
+    },
+    {
+        "id": "2",
+        "name": "ES 6",
+        "icon": "https://i.ibb.co/gvGmJW8/es6.png"
+    },
+    {
+        "id": "3",
+        "name": "React.js",
+        "icon": "https://i.ibb.co/82tJgNt/react.png"
+    },
+    {
+        "id": "4",
+        "name": "Tailwind",
+        "icon": "https://i.ibb.co/Yp06qvP/tailwind.png"
+    },
+    {
+        "id": "5",
+        "name": "Reactstrap",
+        "icon": "https://i.ibb.co/qd9Vjnr/reactboot.png"
+    },
+    {
+        "id": "6",
+        "name": "HTML 5",
+        "icon": "https://i.ibb.co/QrZKJQ4/html5.png"
+    },
+    {
+        "id": "7",
+        "name": "CSS 3",
+        "icon": "https://i.ibb.co/VjtXTmM/css3.png"
+    },
+    {
+        "id": "8",
+        "name": "Bootrap 5",
+        "icon": "https://i.ibb.co/R2VWN2s/bootstrap.png"
+    }
+]

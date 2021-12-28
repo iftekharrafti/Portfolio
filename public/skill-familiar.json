@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "name": "TypeScript",
+        "icon": "https://i.ibb.co/QcYBCqW/typescript.png"
+    },
+    {
+        "id": "2",
+        "name": "Next.js",
+        "icon": "https://i.ibb.co/s6qFVB2/nextjs.png"
+    },
+    {
+        "id": "3",
+        "name": "React Native",
+        "icon": "https://i.ibb.co/4M5dfyG/react-native.png"
+    },
+    {
+        "id": "4",
+        "name": "Firebase",
+        "icon": "https://i.ibb.co/VCv9ypQ/firebase.png"
+    },
+    {
+        "id": "5",
+        "name": "Heroku",
+        "icon": "https://i.ibb.co/qMncQhT/heroku.png"
+    }
+]
