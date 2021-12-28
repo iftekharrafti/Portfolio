@@ -12,7 +12,7 @@ const Portfolio = () => {
     return (
         <div className="container portfolio" id="portfolio">
             <h2>Portfolio</h2>
-            <div className="row">
+            <div className="row portfolio-row">
                 {
                     portfolios.map(portfolio => <SinglePort
                         portfolio={portfolio}
