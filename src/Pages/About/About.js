@@ -13,7 +13,7 @@ const About = () => {
                         <div className="row">
                             <div className="col-md-6 col-sm-12">
                                 <p>Name: <span>Iftekahr Uddin Rafti</span></p>
-                                <p>Age: <span>20 Years</span></p>
+                                <p>Age: <span>22 Years</span></p>
                                 <p>Nationality: <span>Bangladeshi</span></p>
                                 <p>Work Experience: <span>1 Years</span></p>
                                 <p>Email: <span>iftekharrafti7040@gmail.com</span></p>

@@ -15,7 +15,7 @@
     },
     {
         "id": 3,
-        "name": "Calivard Hospital",
+        "name": "BicycleHub",
         "description": "This is a cycle selling website. It is build with HTML, CSS And React, Express, MongoDB and Firebase",
         "link": "https://bicyclehub-bb740.web.app/",
         "img": "https://i.ibb.co/z6td3QT/cycle.png"

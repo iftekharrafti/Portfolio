@@ -117,7 +117,7 @@ const HomeInitialize = () => {
                             <li>Programmer</li>
                             <li>Learner</li>
                         </ul>
-                        <button className="btn resume mb-4 "><a href="https://drive.google.com/file/d/19z-TmubMl7TJYygvXjnqtuHnkVmvcTwR/view" target="_blank">Get Resume</a></button>
+                        <button className="btn resume mb-4 "><a href="https://drive.google.com/file/d/1LYdIPB4NXN7Z3nWAopuvLTNyXXPMxHXW/view?usp=sharing" target="_blank">Get Resume</a></button>
                         <a className="btn about mb-4" href="#about">About Me</a>
                     </div>
                     <div className="col-lg-6 col-md-6 col-12 my-img">
